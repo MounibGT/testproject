@@ -1,2 +1,4 @@
 git clone lien    للربط 
-git status   
+git status   لتحديد التغيرات 
+git add *   لاضافة كل التغيرات
+ 

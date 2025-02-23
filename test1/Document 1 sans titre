@@ -5,3 +5,4 @@ git add *   لاضافة كل التغيرات
 git commit -m "  رسالة لتوضيح التغيرات التي فعتها في المشروع  "
 يجب عليك اضافة token  لربط التغيرات بال github من خلال الدهاب الى settings ثم developer Settings  ثم انشاء token classic و تحديد اسم ال token و نحديد خانة repo ثم انشاء و copie لل token 
 ls  == dir in windows  
+git pull origin                                            لأخد اخر التغيرات التي قام بيها زميلي في المشروع الى ملف المشروع الموجود في الحاسوب 	
